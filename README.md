@@ -1,88 +1,85 @@
-# 👋 Hi, I'm Prathmesh Mane Deshmukh  
-🎓 **AI & Data Science Engineer | Machine Learning Enthusiast | Data-Driven Problem Solver**
+# 🌐 Prathmesh Mane Deshmukh – AI & Data Science Portfolio
 
-📞 **Phone:** +91 8575655005  
+Welcome to my personal portfolio website!  
+This website showcases my **skills, projects, and achievements** as an aspiring **AI & Data Science Engineer**.  
+Built with passion, simplicity, and a clean responsive design — deployed using **GitHub Pages**.
+
+---
+
+## 🚀 Live Portfolio
+🎯 **[View My Live Portfolio Here](https://pamd005.github.io/Prathmesh-portfolio/)**  
+
+---
+
+## 👨‍💻 About Me
+Hi, I'm **Prathmesh Mane Deshmukh**,  
+a **B.Tech graduate in Artificial Intelligence & Data Science** passionate about turning data into decisions.  
+I love solving real-world problems using **machine learning**, **data analysis**, and **AI-driven solutions**.
+
+📍 Based in Maharashtra, India  
 📧 **Email:** [pmaned05@gmail.com](mailto:pmaned05@gmail.com)  
 🐙 **GitHub:** [pamd005](https://github.com/pamd005)  
-🔗 **LinkedIn:** *[LinkedIn](https://linkedin.com/in/pmd005) 
+💼 **LinkedIn:** [linkedin.com/in/pmd005](https://linkedin.com/in/pmd005)  
 
 ---
 
-## 🎯 Objective  
-B.Tech graduate in **Artificial Intelligence & Data Science** with a strong foundation in **Machine Learning, Data Analysis**, and **Python Programming**.  
-I’m passionate about leveraging AI and data-driven insights to solve real-world problems, optimize processes, and build intelligent systems.  
-I’m eager to learn, experiment with emerging technologies, and contribute to innovative, impactful AI solutions.  
-
----
-
-## 🎓 Education  
-
+## 🎓 Education
 **TPCT’s College of Engineering, Osmanabad**  
 _B.Tech in Artificial Intelligence & Data Science_  
-📍 Dharashiv, Maharashtra | **CGPA: 7.29** | *Graduation: Aug 2025*  
+📆 Aug 2025 | CGPA: 7.29  
 
 **Karmayogi Polytechnic College, Pandharpur**  
 _Diploma in Computer Technology_  
-📍 Pandharpur | **Percentage: 73.43%** | *Completed: Sept 2022*  
+📆 Sept 2022 | Percentage: 73.43%  
 
 ---
 
-## 💼 Internship  
+## 💼 Internship
+**Rubixe AI & Solutions — Data Science Intern**  
+📅 Mar 2025 – Sept 2025 | 🏢 Onsite  
 
-**Data Science Intern – Rubixe AI & Solutions**  
-📆 *Mar 2025 – Sept 2025*  
-🏢 Onsite Internship  
-
-- Worked on **AI & Data Science applications** in real-world business scenarios.  
-- Conducted **data preprocessing, feature engineering, and EDA** using Python libraries.  
-- Designed and deployed **predictive ML models** in collaboration with cross-functional teams.  
-- **Tools & Tech:** Python, Pandas, NumPy, Scikit-learn, SQL, Matplotlib, Seaborn  
+- Completed a 6-month internship focused on AI & Data Science applications  
+- Performed **EDA**, **feature engineering**, and **model deployment**  
+- Built predictive models using **Python, Pandas, NumPy, Scikit-learn, SQL, Matplotlib, and Seaborn**
 
 ---
 
-## 🚀 Projects  
+## 🚀 Projects
 
-### 🌾 **Rice Leaf Disease Detection (CNN, Transfer Learning)**  
-- Built a CNN-based image classifier to identify **Leaf Blast, Bacterial Blight, and Brown Spot**.  
-- Used **Transfer Learning** and **Data Augmentation** to enhance model performance.  
-- Achieved **~92% accuracy**.  
-- **Tools:** TensorFlow, Keras, OpenCV, Python  
+### 🌾 Rice Leaf Disease Detection (CNN, Transfer Learning)
+- Built a CNN classifier for rice leaf diseases (Leaf Blast, Bacterial Blight, Brown Spot)
+- Achieved ~92% accuracy with Transfer Learning  
+- **Tools:** TensorFlow, Keras, OpenCV, Python
 
----
+### 🏦 Portuguese Bank Marketing Prediction
+- Predicted term deposit subscriptions using ML models  
+- Achieved **F1-score: 0.84**  
+- **Tools:** Scikit-learn, Pandas, Matplotlib
 
-### 🏦 **Portuguese Bank Marketing Prediction (Classification)**  
-- Developed **Logistic Regression**, **Random Forest**, and **XGBoost** models to predict term deposit subscriptions.  
-- Achieved **F1-score: 0.84** after model tuning and feature engineering.  
-- **Tools:** Scikit-learn, Pandas, Matplotlib  
-
----
-
-### 💳 **Customer Transaction Prediction (Predictive Modeling)**  
-- Predicted which customers were likely to make **future banking transactions**.  
-- Built an ML pipeline with **feature selection, model training, and evaluation**.  
-- Achieved **ROC-AUC: 0.89**.  
+### 💳 Customer Transaction Prediction
+- Predicted customers likely to make future banking transactions  
+- Achieved **ROC-AUC: 0.89**  
 - **Tools:** Python, Scikit-learn, Pandas, NumPy  
 
 ---
 
-## 🧰 Technical Skills  
+## 🧰 Technical Skills
 
-**Languages & Libraries:**  
+**Languages / Libraries:**  
 `Python`, `NumPy`, `Pandas`, `Scikit-learn`, `Matplotlib`, `Seaborn`
 
 **Databases / Tools:**  
 `MySQL`, `SQLite`, `Power BI`, `Tableau`, `Git`, `Jupyter Notebook`
 
-**Machine Learning / AI:**  
-`Supervised Learning`, `Unsupervised Learning`, `Deep Learning (CNNs)`, `NLP Basics`
+**ML / AI:**  
+`Supervised & Unsupervised Learning`, `Deep Learning (CNNs)`, `NLP Basics`
 
 **Core Concepts:**  
-`Data Cleaning`, `Feature Engineering`, `ETL Processes`, `Model Deployment`, `EDA`
+`EDA`, `Feature Engineering`, `ETL`, `Data Cleaning`, `Model Deployment`
 
 ---
 
-## 📜 Certifications  
-
+## 📜 Certifications
 - 🧩 **IABAC – Data Science Professional**  
 - 🎓 **Coursera (JHU)** – Data Scientist’s Toolbox  
 - 📊 **Python for Data Analysis**  
@@ -92,19 +89,19 @@ _Diploma in Computer Technology_
 
 ---
 
-## 🌐 Languages  
-
+## 🌐 Languages
 - 🇬🇧 English — Proficient  
 - 🇮🇳 Hindi — Proficient  
 - 🇮🇳 Marathi — Native  
 
 ---
 
-## 💬 Let's Connect!  
+## ❤️ Connect With Me
 📧 [pmaned05@gmail.com](mailto:pmaned05@gmail.com)  
 🐙 [GitHub](https://github.com/pamd005)  
-💼 [LinkedIn](https://linkedin.com/in/pmd005) 
+💼 [LinkedIn](https://linkedin.com/in/pmd005)  
+🌐 [Live Portfolio](https://pamd005.github.io/Prathmesh-portfolio/)  
 
 ---
 
-⭐ *“Turning Data into Decisions, and Ideas into Intelligent Solutions.”*  
+⭐ *"Turning Data into Decisions and Ideas into Intelligent Solutions."*  
