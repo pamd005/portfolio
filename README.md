@@ -7,7 +7,7 @@ Built with passion, simplicity, and a clean responsive design — deployed using
 ---
 
 ## 🚀 Live Portfolio
-🎯 **[View My Live Portfolio Here](https://pamd005.github.io/Prathmesh-portfolio/)**  
+🎯 **[View My Live Portfolio Here](https://pamd005.github.io/portfolio/)**  
 
 ---
 
@@ -100,7 +100,7 @@ _Diploma in Computer Technology_
 📧 [pmaned05@gmail.com](mailto:pmaned05@gmail.com)  
 🐙 [GitHub](https://github.com/pamd005)  
 💼 [LinkedIn](https://linkedin.com/in/pmd005)  
-🌐 [Live Portfolio](https://pamd005.github.io/Prathmesh-portfolio/)  
+🌐 [Live Portfolio](https://pamd005.github.io/portfolio/)  
 
 ---
 
